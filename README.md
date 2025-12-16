@@ -1,2 +1,2 @@
-# Bilder
-Bilder jeg vil dele i portofolio nettsiden min
+# Photos
+Photos i want to share
