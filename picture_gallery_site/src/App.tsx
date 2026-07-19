@@ -39,7 +39,7 @@ export default function App() {
 
     return (
         <div style={{backgroundColor: "black"}} id={"overlay"} className="min-h-screen bg-gray-50">
-            <div className="max-w-6xl mx-auto">
+            <div className="max-w mx-auto">
                 <ParallaxScrollSecond
                     images={images}
                     className="h-[900px] w-full"
